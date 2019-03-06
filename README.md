@@ -1,4 +1,4 @@
-# pdfmake [![Build Status][travis_img]][travis_url] [![GitHub][github_img]][github_url] [![npm][npm_img]][npm_url] [![Bower][bower_img]][bower_url] [![Packagist][packagist_img]][packagist_url] [![CDNJS][cdnjs_img]][cndjs_url]
+# RichardsPDFMaker [![Build Status][travis_img]][travis_url] [![GitHub][github_img]][github_url] [![npm][npm_img]][npm_url] [![Bower][bower_img]][bower_url] [![Packagist][packagist_img]][packagist_url] [![CDNJS][cdnjs_img]][cndjs_url]
 
 [travis_img]: https://travis-ci.org/bpampuch/pdfmake.svg?branch=master
 [travis_url]: https://travis-ci.org/bpampuch/pdfmake
@@ -20,10 +20,6 @@
 
 
 Client/server side PDF printing in pure JavaScript
-
-Check out [the playground](http://bpampuch.github.io/pdfmake/playground.html) and [examples](https://github.com/bpampuch/pdfmake/tree/master/examples).
-
-#### This is unstable master branch for version 0.2.x, for stable version 0.1.x see [branch 0.1](https://github.com/bpampuch/pdfmake/tree/0.1).
 
 ### Features
 
@@ -74,10 +70,3 @@ yarn run build
 ## License
 MIT
 
-## Authors
-* [@bpampuch](https://github.com/bpampuch) (founder)
-* [@liborm85](https://github.com/liborm85)
-
-pdfmake is based on a truly amazing library [pdfkit](https://github.com/devongovett/pdfkit) (credits to [@devongovett](https://github.com/devongovett)).
-
-Thanks to all contributors.
