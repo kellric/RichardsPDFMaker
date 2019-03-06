@@ -27,28 +27,6 @@ Client/server side PDF printing in pure JavaScript
 * helper methods for opening/printing/downloading the generated PDF,
 * setting of PDF metadata (e.g. author, subject).
 
-## Documentation
-
-Documentation URL: https://pdfmake.github.io/docs/
-
-## Building from sources
-
-using npm:
-```
-git clone https://github.com/bpampuch/pdfmake.git
-cd pdfmake
-npm install
-npm run build
-```
-
-using yarn:
-```
-git clone https://github.com/bpampuch/pdfmake.git
-cd pdfmake
-yarn
-yarn run build
-```
-
 ## License
 MIT
 
